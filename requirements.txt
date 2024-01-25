@@ -1,0 +1,12 @@
+Langchain
+pyodbc
+openai
+streamlit
+google-generativeai
+python-dotenv
+PyPDF2
+chromadb
+faiss-cpu
+pdf2image
+langchain-community
+langchain-openai
